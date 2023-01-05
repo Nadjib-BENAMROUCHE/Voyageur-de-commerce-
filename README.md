@@ -6,7 +6,7 @@ Ce code Python implémente l'algorithme de recherche tabou pour résoudre le pro
 
 ## Algorithme genetique pour le voyageur de commerce 
 
-L'implémentation Python de cette algorithme.
+L'implémentation Python de cet algorithme.
 
 # Prérequis
 
