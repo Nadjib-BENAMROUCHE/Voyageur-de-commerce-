@@ -16,7 +16,7 @@ Avant de pouvoir utiliser ce code, assurez-vous d'avoir Python 3 installé sur v
 
 - Pour utiliser ce code, téléchargez le fichier tabou.py et placez-le dans le répertoire de votre choix. Ensuite, ouvrez un terminal et naviguez jusqu'au répertoire où se trouve le fichier.
 
-Pour exécuter le code, utilisez la commande suivante: 
+  Pour exécuter le code, utilisez la commande suivante: 
 
   'python3 tabou.py'
 
