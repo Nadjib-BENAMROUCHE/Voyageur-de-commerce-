@@ -22,7 +22,7 @@ Avant de pouvoir utiliser ce code, assurez-vous d'avoir Python 3 installé sur v
 
 Le code prend en entrée la matrice de distances entre les villes, le nombre de villes et la longueur de la liste tabou. Il renvoie en sortie l'itinéraire optimal trouvé par l'algorithme.
 
-- Le script 'algo_genetique' presnte la solution avec l'algorithme genetique, pour exécuter le code, utilisez la commande suivante: 
+- Le script 'algo_genetique' presnte la solution avec l'algorithme genetique. Pour exécuter le code, utilisez la commande suivante: 
 
   'python3 algo_genetique.py'
 
